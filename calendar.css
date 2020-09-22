@@ -1,10 +1,10 @@
 body{
-        background-color: black;
-   background-image: url("https://lgeverola.github.io/Geverola_webdev_midterm/bk.png");
+        background-color: violet;
+   background-image: url("https://lgeverola.github.io/Geverola_webdev_midterm/rm.jpg");
         backgound - repeat: no-repeat;
       }
       .container {
-        max-width: 800px; 
+        max-width: 1040px; 
         margin: auto; 
         font-family: sans-serif;
       }
@@ -18,7 +18,7 @@ body{
         border: 1px solid #FF0099; 
       }
       table, th, td {
-        width: 30%; 
+        width: 50%; 
         table-layout:fixed; 
         text-allign: center; 
         font-size: 30px; 
