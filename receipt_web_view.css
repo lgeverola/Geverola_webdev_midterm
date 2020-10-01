@@ -1,0 +1,112 @@
+.border{
+  margin-left: 50%;
+  margin-right: 50%;
+  width: 100%;
+}
+.container{
+  max-width:485px;
+  font-family: 'Arial';
+  border: 2px black solid;
+}
+.logo{
+  background: #536476;
+  width: 485px;
+  text-align: center;
+  color:white;
+  padding-top: 20px;
+  padding-bottom: 3px;
+}
+.container2{
+  padding: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+.pay{
+  text-align: center;
+  color: #536476;
+  padding-bottom:30px;
+  border-bottom: 1px solid lightgray;
+}
+#payInvoice{
+  background: #536476;
+  color: white;
+  padding: 10px;
+  padding-left: 95px;
+  padding-right: 95px;
+  border: 1px solid #536476;
+}
+#payInvoice:hover{
+  background: white;
+  border: 1px #536476 solid;
+  color: #536476;
+}
+#newInvoice{
+  margin-bottom:-5px;
+}
+.information{
+  color: #536476;
+  font-size:13px;
+  padding-top:10px;
+}
+.inv{
+  margin-bottom:4px;
+  font-size:16px;
+}
+.information2{
+  color: #536476;
+  font-size:13px;
+  padding-bottom:30px;
+  border-bottom: 1px solid lightgray;
+}
+.cus{
+  margin-bottom: 0px;
+}
+.message{
+  color: #536476;
+  font-size:14px;
+  padding-top: 20px;
+  padding-bottom:20px;
+  border-bottom: 1px solid lightgray;
+}
+.expense{
+  color: #536476;
+  font-size:14px;
+  padding-top: 20px;
+}
+.expense2{
+  color: #536476;
+  font-size:14px;
+  padding-bottom:20px;
+  border-bottom: 1px solid lightgray;
+}
+.sum{
+  color: #536476;
+  font-size:14px;
+  padding-top: 10px;
+  margin-bottom: -20px;
+}
+.sum2{
+  color: #536476;
+  font-size:14px;
+  padding-bottom:10px;
+  border-bottom: 1px solid lightgray;
+}
+.total{
+  color: #536476;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+#asd{
+  width: 400px;
+}
+footer{
+  text-align:center;
+  font-size:14px;
+  color:#536476;
+  border-top: 1px solid lightgray;
+  padding-bottom: 40px;
+}
+.bold{
+  padding-top: 40px;
+  margin-bottom: -10px;
+}
